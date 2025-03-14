@@ -1,9 +1,21 @@
-# Python files
 __pycache__
 .ipynb_checkpoints
 */.ipynb_checkpoints
-
-# Mac hidden files
 .DS_Store
 */.DS_Store
 */*/.DS_Store
+drafts
+extra_notebooks
+figures-full
+regional_sampling_tests.ipynb
+trajectory_stats.ipynb
+src/simulations/plots
+src/simulations/data-npz-old
+src/simulations/simulation-scripts/sh_files
+src/simulations/simulation_visualization_old.ipynb
+src/simulations/simulation_visualization_resize.ipynb
+src/data-processing-pipeline/scripts/processing-scripts-raw
+data/mut-counts
+data/mut-counts-2
+data/SC2_BP_Data/regions-2024-01-26-sub
+data/SC2_BP_Data/regions-2024-01-26
