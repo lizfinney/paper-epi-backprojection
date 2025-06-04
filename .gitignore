@@ -7,8 +7,6 @@ __pycache__
 drafts
 extra_notebooks
 figures-full
-regional_sampling_tests.ipynb
-trajectory_stats.ipynb
 src/simulations/plots
 src/simulations/data-npz-old
 src/simulations/simulation-scripts/sh_files
